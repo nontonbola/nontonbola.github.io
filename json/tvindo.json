@@ -1,0 +1,13 @@
+{
+  "Ads": [
+    {
+      "select_ads": "APPLOVIN/KOSONGIN",
+      "backup_mode": "APPLOVIN/KOSONGIN",
+      "status_app": "0",
+      "link_redirect": "https://",
+
+      "interval": 5
+
+    }
+  ]
+}
